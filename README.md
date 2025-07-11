@@ -15,4 +15,4 @@
 1. مطمئن شوید پایتون نصب شده است
 2. اسکریپت را اجرا کنید:
    ```bash
-   python automation_script.py
+   python proje2.py
